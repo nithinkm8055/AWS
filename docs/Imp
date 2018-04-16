@@ -1,3 +1,3 @@
-1) An EBS cannot be used in multiple EC2 instances, insted use EFS.
+1) An EBS cannot be used in multiple EC2 instances, instead use EFS.
 2) A single subnet is only available across a single availibility zone.
 3) Security groups are virtual firewalls
