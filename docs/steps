@@ -1,0 +1,8 @@
+SSH into EC2 instance
+* ssh ec2-user@54.154.40.109 -i MyEC2KeyPair.pem
+* switch role to super user
+  sudo su
+* install all security patches and updates :
+  yum update -y
+  
+  
